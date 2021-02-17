@@ -43,21 +43,19 @@ rpcport=9332
 listen=1
 rpcuser=$randUser
 rpcpassword=$randPass
-addnode=grcnode.tahvok.com
-addnode=grcexplorer.neuralminer.io
-addnode=grcnode01.neuralminer.io
-addnode=grcnode02.neuralminer.io
-addnode=grcnode03.neuralminer.io
-addnode=grcnode04.neuralminer.io
-addnode=grcnode05.neuralminer.io
-addnode=gridcoin.bunnyfeet.fi
-addnode=gridcoin.certic.info
-addnode=gridcoin.hopto.org
-addnode=ils.gridcoin.co.il
-addnode=node.gridcoin.network
-addnode=node1.gridcoin.xyz
-addnode=node1.chick3nman.com
-addnode=quebec.gridcoin.co.il
+addnode=addnode-us-central.cycy.me	
+addnode=ch.gridcoin.pl	
+addnode=ec2-3-81-39-58.compute-1.amazonaws.com	
+addnode=fi.gridcoin.pl
+addnode=grcnode.tahvok.com	
+addnode=gridcoin.network
+addnode=gridhost.ddns.net	
+addnode=node.gridcoin.network	
+addnode=pl.gridcoin.pl	
+addnode=seeds.gridcoin.ifoggz-network.xyz
+addnode=tarmoilves.eu
+addnode=vancouver01.gridcoin.ifoggz-network.xyz
+
 EOT"
 
 # Pull the official snapshot.
